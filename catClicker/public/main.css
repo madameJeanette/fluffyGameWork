@@ -1,0 +1,40 @@
+* {
+  position: absolute;
+
+}
+
+img{
+  background-image: url(../assets/GAME_ROOM_1.png);
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+cat {
+  background-image: url(../assets/cat_black.png);
+  width: 320px;
+  height: 296px;
+  background-repeat: no-repeat;
+  display: block;
+
+}
+witch {
+  background-image: url(../assets/8-bitMeee.png);
+  width: 350px;
+  height: 400px;
+  
+}
+
+counter{
+  font-size: 50px;
+  color:white;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow Bold', Arial, sans-serif;
+  
+}
